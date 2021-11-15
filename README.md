@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JxstSmoke
-- 👀 I’m interested in ...JavaScript, food, and Video Games.
-- 🌱 I’m currently learning ...JavaScript (Coding)
-- 💞️ I’m looking to collaborate on ...FiveM
-- 📫 How to reach me ...Email: officerkai1212@gmail.com
+- 15 Years old
+- Codewalker Developer
+- Studing "Data Science"
+- Studing " JavaScript"
+- Beyond Life RP Staff
+- To contact me email me at "Mr.Jxst@outlook.com"
 
 <!---
 JxstSmoke/JxstSmoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
